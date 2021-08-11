@@ -31,8 +31,8 @@ mRxManager.listen();  //Listening Start
 ## Architecture (아키텍처)
 euphony architecture
 ## Contributing (기여)
-Changes and improvements are more than welcome! Feel Free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master.\\
+Changes and improvements are more than welcome! Feel Free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master.  
 변화와 개선은 환영입니다! 자유롭게 fork와 PR하세요. 당신의 변경사항을 특정한 branch에 commit해주시고 master branch로 PR해주세요.
 ## License
-Euphony is licensed under the Apache 2.0 license. (https://github.com/designe/Euphony/blob/master/LICENSE)\\
+Euphony is licensed under the Apache 2.0 license. (https://github.com/designe/Euphony/blob/master/LICENSE)  
 Euphony는 Apache 2.0 license에 따라 라이센스가 부여됩니다.
