@@ -84,7 +84,7 @@ Operate 'euphony-listener' app on the connected device.
 
 #### Speaker
 
-Speaker demo is available at (https://dev.jbear.co/euphony/). Enter short text and press the 'broadcast' button.  
+Speaker demo is available at [여기](https://dev.jbear.co/euphony/). Enter short text and press the 'broadcast' button.  
 [여기](https://dev.jbear.co/euphony/)에서 Speaker demo를 사용할 수 있다. 짧은 텍스트를 입력하고 broadcast 버튼을 누른다.
 
 ![speaker](https://user-images.githubusercontent.com/47289893/128968935-b4cd781a-5de0-42cf-a01a-ec87a47f77b6.png)
