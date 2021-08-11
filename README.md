@@ -16,6 +16,7 @@ AndroidManifest.xml
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
 ```
 ## Euphony Listener is very easy to use
+## Euphony Listener는 사용하기 매우 쉽습니다.
 ```java
 EuRxManager mRxManager = new EuRxManager();
 mRxManager.setAcousticSensor(new AcousticSensor() {
